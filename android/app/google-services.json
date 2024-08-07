@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "635987287125",
+    "project_id": "hibank-test",
+    "storage_bucket": "hibank-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635987287125:android:0940f6f05938ca71eb08dc",
+        "android_client_info": {
+          "package_name": "com.example.hibank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635987287125-h5tqk5q40mirbif84ee6mtf4cnteo9bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hibank",
+            "certificate_hash": "fcf0a5dad0faff38ada3471125fe8364645b6393"
+          }
+        },
+        {
+          "client_id": "635987287125-0psi05j0fmor0kohs2boe0qfs7sr6hjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY4B9W9ocpn4LD7NUHlbhzJbUkY4WEWY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635987287125-0psi05j0fmor0kohs2boe0qfs7sr6hjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635987287125-apcfcq8lde9a0j5v99u3brf6r2olbtpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hibankTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
